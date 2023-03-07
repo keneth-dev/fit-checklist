@@ -21,6 +21,8 @@
 	width: 500px;
 	display: flex;
 	flex-flow: row nowrap;
+	gap: .5em;
+	align-items: center;
 }
 
 .text {
